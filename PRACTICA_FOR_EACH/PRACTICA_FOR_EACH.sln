@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "PRACTICA_FOR_EACH", "PRACTICA_FOR_EACH.dtproj", "{DADA1C9E-4C44-439C-85B5-1B65E6958841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADA1C9E-4C44-439C-85B5-1B65E6958841}.Development|Default.ActiveCfg = Development
+		{DADA1C9E-4C44-439C-85B5-1B65E6958841}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDA0C95-D64B-4B16-8DB6-5F4DC6E7175C}
+	EndGlobalSection
+EndGlobal

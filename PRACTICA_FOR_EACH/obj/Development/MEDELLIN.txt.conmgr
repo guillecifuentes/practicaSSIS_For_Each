@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MEDELLIN.txt"
+  DTS:DTSID="{DC7409B6-4DCD-4F3F-9276-92B6F8DBB6F5}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="C:\EJEMPLO_FOR_EACH\MEDELLIN.txt" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
